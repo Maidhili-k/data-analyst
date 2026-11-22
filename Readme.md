@@ -1,4 +1,4 @@
-# Cognifyz Technologies – Data Analysis Internship
+
 # Restaurant Data Analysis Using Python
 
 ## Project Overview
